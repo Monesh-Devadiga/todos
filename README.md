@@ -1,5 +1,5 @@
 # Todo
-A single-page Todo app built with React. Demonstrates component-based thinking and centralized state management.
+A single-page Todo built with React. Demonstrates component-based thinking and centralized state management.
 
 ## Features
 - Add, toggle, edit (double-click), and delete todos
