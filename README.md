@@ -23,7 +23,7 @@ src/
 ```
 State lives in one place (`App.jsx`): the `todos` array and the active `filter`. Derived values (`filteredTodos`, `activeCount`) are computed there and passed down as props, so child components stay presentational.
 
-## Getting started
+#### Getting started
 ```bash
 npm install
 npm run dev      # start dev server at http://localhost:5173
