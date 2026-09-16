@@ -2,7 +2,7 @@
 A single-page Todo built with React. Demonstrates component-based thinking and centralized state management.
 
 ## Features
-- Add, toggle, edit (double-click), and delete todos
+- Add, toggle, edit (double-click) and delete ta
 - Filter by All / Active / Completed
 - Clear completed in one click
 - Live item counter
