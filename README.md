@@ -21,7 +21,6 @@ src/
     TodoItem.jsx          # One task: toggle, inline edit, delete
     TodoFooter.jsx        # Filters, item count, clear completed
 ```
-
 State lives in one place (`App.jsx`): the `todos` array and the active `filter`. Derived values (`filteredTodos`, `activeCount`) are computed there and passed down as props, so child components stay presentational.
 
 ## Getting started
