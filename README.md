@@ -10,7 +10,6 @@ A single-page Todo built with React. Demonstrates component-based thinking and c
 - Responsive, keyboard-friendly (Enter saves, Escape cancels editing)
 
 ## Project structure
-
 ```
 src/
   App.jsx                 # Single source of truth for state + all handlers
