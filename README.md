@@ -32,5 +32,5 @@ npm run dev      # start dev server at http://localhost:5173
 ## Scripts
 | Command          | Description                     |
 | ---------------- | ------------------------------- |
-| `npm run dev`    | Start the Vite dev server       |
+
 
