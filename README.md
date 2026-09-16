@@ -1,5 +1,4 @@
 # React Todo App
-
 A single-page Todo app built with React. Demonstrates component-based thinking and centralized state management.
 
 ## Features
