@@ -30,7 +30,7 @@ npm run dev      # start dev server at http://localhost:5173
 ```
 
 ## Scripts
-| Command          | Description                     |
+| Command          | Description           gg          |
 
 
 
