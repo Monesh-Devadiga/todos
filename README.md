@@ -28,3 +28,4 @@ State lives in one place (`App.jsx`): the `todos` array and the active `filter`.
 npm install
 npm run dev      # start dev server at http://localhost:5173
 ```
+
