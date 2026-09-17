@@ -8,7 +8,7 @@ A single-page Todo built with React. Demonstrates component-based thinking and c
 - Live item counter
 - Persists to `localStorage` (survives page reloads)
 - Responsive, keyboard-friendly (Enter saves, Escape cancels editing)
-s
+
 ## Project structure
 ```
 src/
